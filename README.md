@@ -1,4 +1,14 @@
-# GPTele
+
+<p align="center">
+  <img src="/TELE.png" alt="Pavement Condition Index" width="420">
+</p>
+<p align="center">
+  <img alt="Electron" src="https://img.shields.io/badge/Electron-44-47848F?logo=electron&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white">
+  <img alt="Platform" src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows-0078D6?logo=windows&logoColor=white">
+  <img alt="Version" src="https://img.shields.io/github/v/release/romimeimedio16/GPTele?label=version">
+</p>
 
 GPTele is a desktop application for adding GoPro telemetry overlays to video. It reads GPS data from video, displays a map and metrics that follow the video timeline, and exports the result as an MP4.
 
